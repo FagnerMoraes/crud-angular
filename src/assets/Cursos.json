@@ -1,0 +1,12 @@
+ [
+  {"_id": "1", "name": "Angular", "categoria": "Front-End"},
+  {"_id": "2", "name": "React", "categoria": "Front-End"},
+  {"_id": "3", "name": "Java Spring", "categoria": "Front-End"},
+  {"_id": "4", "name": ".Net C#", "categoria": "Back-End"},
+  {"_id": "5", "name": "MySql", "categoria": "Banco de Dados"},
+  {"_id": "6", "name": "RabbitMQ", "categoria": "DevOps"},
+  {"_id": "7", "name": "Linux", "categoria": "O.S."},
+  {"_id": "8", "name": "PHP", "categoria": "Back-End"},
+  {"_id": "9", "name": "Ruby", "categoria": "IoT"},
+  {"_id": "10", "name": "C++", "categoria": "Games"}
+ ]
